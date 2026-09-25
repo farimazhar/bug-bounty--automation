@@ -1,0 +1,6 @@
+results/
+*.log
+*.txt
+!README.md
+.DS_Store
+nuclei_output/
